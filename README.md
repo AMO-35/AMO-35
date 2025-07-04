@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Abdullah Md. Omar</h1>
-<h3 align="center">Competitive Programmer | Proficient in C++, Java, Python, JavaScript | Currently Exploring AI, Machine Learning, Computer Vision & NLP</h3>
+<h3 align="center">Competitive Programmer | Skilled in C++, Java, Python, JavaScript | Exploring AI, ML, Computer Vision & NLP</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=amo-35&label=Profile%20views&color=0e75b6&style=flat" alt="amo-35" /> </p>
 
-- 🌱 I’m currently learning **Artificial Intelligence, Machine Learning, Deep Learning (TensorFlow/PyTorch), NLP, and Computer Vision**
+- 🌱 I’m learning: **Artificial Intelligence, Machine Learning, Deep Learning (TensorFlow, PyTorch), NLP, and Computer Vision**
 
-- 💬 Ask me about **Competitive Programming, C++, Java, Python, JavaScript, Machine Learning, Deep Learning, NLP, Computer Vision**
+- 💬 Ask me about: **Competitive Programming, Data Structures & Algorithms, and Software Development with C++, Java, Python, or JavaScript**
 
-- 📫 How to reach me **abdullahmdomar@gmail.com**
+- 📫 Reach me at: **abdullahmdomar@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
